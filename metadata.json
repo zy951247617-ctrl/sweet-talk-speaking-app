@@ -1,0 +1,10 @@
+{
+  "name": "Sweet Talk! — Ice Cream Shop",
+  "description": "A friendly English speaking practice app for Korean elementary school students (CEFR A1) ordering ice cream from Coco the bear.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
